@@ -1,5 +1,7 @@
 # calculator-app
 
+notion
+
 https://github.com/TheLightPhoenix98/calculator-app
 
 ### Layout:
